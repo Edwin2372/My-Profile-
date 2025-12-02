@@ -1,0 +1,26 @@
+body{background: fixed; background:#b3cbe4; color: #523636}
+h1{text-align: center; margin-bottom: 50px; margin-top: 60px;}
+h2{text-align: center;}
+
+p{margin-bottom: 50px;}
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  width: 700px;   
+  height: 700px;   
+}
+
+.realimages{text-align: center;}
+.realimages img {
+  width: 400px;   
+  height: 400px;
+  margin-bottom: 30px;   
+}
+
+li {margin-top: 50px;}
+
+
+
